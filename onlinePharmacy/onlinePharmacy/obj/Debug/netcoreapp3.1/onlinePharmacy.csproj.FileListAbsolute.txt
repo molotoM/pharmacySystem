@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.Form1.resources
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.AssemblyInfo.cs
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\bin\Debug\netcoreapp3.1\onlinePharmacy.exe
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\bin\Debug\netcoreapp3.1\onlinePharmacy.deps.json
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\bin\Debug\netcoreapp3.1\onlinePharmacy.runtimeconfig.json
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\bin\Debug\netcoreapp3.1\onlinePharmacy.runtimeconfig.dev.json
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\bin\Debug\netcoreapp3.1\onlinePharmacy.dll
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\bin\Debug\netcoreapp3.1\onlinePharmacy.pdb
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.dll
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.pdb
+C:\Users\User\source\repos\onlinePharmacy\onlinePharmacy\obj\Debug\netcoreapp3.1\onlinePharmacy.genruntimeconfig.cache
